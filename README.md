@@ -1,1 +1,3 @@
-"# My project's README" 
+Example Background GeoLocation app.
+=============================================
+
